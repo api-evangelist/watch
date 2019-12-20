@@ -1,0 +1,55 @@
+{
+    "name": "Watch",
+    "description": "This website is for sale! wewatchthematch.com is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, wewatchthematch.com has it all. We hope you find what you are ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1215-watch.jpg",
+    "tags": [
+        "entertainment",
+        "football",
+        "have api",
+        "soccer",
+        "televisions"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/watch\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Watch",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1215-watch.jpg",
+            "humanURL": "http:\/\/dev.wewatchthematch.com\/index.php?r=site\/index",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/watch-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/watch-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/dev.wewatchthematch.com\/index.php?r=site\/index"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.wewatchthematch.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/we-watch-the-match?utm_source=odm_csv_v101&utm_medium=export&utm_campaign=dataset"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/wewatchthematch"
+        }
+    ]
+}
